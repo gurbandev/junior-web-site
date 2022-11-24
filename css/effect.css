@@ -1,0 +1,15 @@
+.efginel{
+    transition: 0.5s;
+}
+.efginel:hover{
+    transform: scale(1.1);
+}
+
+
+.efdark{
+    transition: 0.5s;
+}
+.efdark:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}

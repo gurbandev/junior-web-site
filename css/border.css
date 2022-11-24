@@ -1,0 +1,13 @@
+.b{
+    border: 1px solid black;
+}
+
+.btr5{
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+.br5{
+    border: 1px solid black;
+    border-radius: 5px;
+}
